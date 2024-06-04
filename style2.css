@@ -1,0 +1,48 @@
+#foto-simbolo{
+    width: 55px;
+    height: 40px;
+}
+
+    
+#icone{
+    width: 250px;
+    height: 200px;
+    justify-content: center;
+    text-align: center;
+    display: block;
+    margin: 0 auto;
+    margin-bottom: 80px;
+
+}
+
+#input{
+    display: block;
+    margin: 0 20px;
+    width: 200px;
+    height: 45px;
+    background-color: rgb(97, 162, 227);
+    color: white;
+    align-items: center;
+    padding: 0 10px;
+    justify-content: center;
+    margin: 0 auto;
+    margin-bottom: 30px;
+    border-radius: 5px;
+    border: gray;
+}
+
+#oi{
+    display: block;
+    background-color: black;
+    color: white;
+    margin: 0 20px;
+    width: 200px;
+    height: 45px;
+    align-items: center;
+    justify-content: center;
+    margin: 0 auto;
+    margin-bottom: 30px;
+    border-radius: 5px;
+    font-size: larger;
+}
+  

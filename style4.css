@@ -1,0 +1,32 @@
+#foto-simbolo{
+    width: 55px;
+    height: 40px;
+}
+
+
+#inter{
+    width: 250px;
+    height: 220px;
+    justify-content: center;
+    text-align: center;
+    display: block;
+    margin: 0 auto;
+    margin-bottom: 80px;
+}
+
+#criança{
+    display: block;
+    margin: 0 20px;
+    width: 200px;
+    height: 45px;
+    background-color: rgb(97, 162, 227);
+    color: white;
+    align-items: center;
+    padding: 0 10px;
+    justify-content: center;
+    margin: 0 auto;
+    margin-bottom: 30px;
+    border-radius: 5px;
+    border: gray;
+    font-size: larger;
+}
